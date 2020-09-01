@@ -1,0 +1,20 @@
+Usages:
+1. EasySplitServer Usage: java -jar EasySplitServer.jar
+2. EasySplitClient Usage: java -jar EasySplitClient.jar
+
+Note:
+1. The server config is already bind into jar file. So you are free to just run...
+
+Example Steps:
+Start 7 Server Instance:
+1. Open new terminal and cd to where EasySplitServer.jar locates (/EasySplit/out/artifacts)
+2. java -jar EasySplitServer.jar
+3. Repeat 7 times
+
+Start 3 Client Instance:
+1. Open new terminal and cd to where EasySplitClient.jar locates (/EasySplit/out/artifacts)
+2. java -jar EasySplitClient.jar
+3. Repeat 3 times
+
+Info:
+1. Check video demo for more details
